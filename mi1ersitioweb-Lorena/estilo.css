@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+
+header h1 {
+    background-color: rgb(245, 243, 247);
+    text-align: center;
+    width: 200px;
+    margin: 25px auto;
+}
+
+main section p {
+    background-color: white;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+main section img,
+main section video {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    margin: 20px auto;
+}
