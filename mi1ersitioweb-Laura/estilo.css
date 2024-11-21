@@ -1,0 +1,12 @@
+#Titulo{background-color: rgb(245, 243, 247);}
+#Parrafo{background-color: white; }
+
+#Titulo { text-align: center;
+    width: 200px; margin: 0 auto;}
+
+#Parrafo {text-align: center;
+width: 500px; margin: 0 auto;}
+
+#Video1 { display: flex;
+    justify-content: center;
+    width:600px; margin: 0 auto;}
